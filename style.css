@@ -38,16 +38,16 @@ body {
 .onglets:not(:nth-child(3)) {
     border-right: 1px solid #333;
 }
-.contenu {
+.contenus {
     height: 70%;
     width: 100%;
     position: absolute;
     /* opacity: 0; */
 }
-.contenu h3, .contenu p {
+.contenus h3, .contenus p {
     padding: 20px;
 }
-.contenu hr {
+.contenus hr {
     width: 20%;
     height: 2px;
     margin-left: 20px;
