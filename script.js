@@ -1,3 +1,4 @@
+// Converti nos éléments en tableau
 const onglets = Array.from(document.querySelectorAll('.onglets'));
 const contenus = Array.from(document.querySelectorAll('.contenus'));
 
